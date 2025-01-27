@@ -1,0 +1,76 @@
+
+! Jan 18, 2025 https://www.anime-suba.com
+||anime-suba.com/imges/BG.jpg$image
+anime-suba.com#$#body{ background: #161616 !important; }
+
+! Jan 18, 2025 https://24-jav.com
+24-jav.com##.bcm-ads
+
+! Jan 18, 2025 https://www.go-manga.com
+||www.go-manga.com/wp-content/uploads/2024/01/go-manga-wallpapaer.jpg$image
+! ~ ^ to prevent dup sub domain
+www.go-manga.com##[href="https://www.go-manga.com/link_to.php?url=https://www.go-manga.com"]
+||www.go-manga.com/wp-content/uploads/*/mangav2.gif
+
+! Jan 7, 2025 https://www.anime-sugoi.com
+www.anime-sugoi.com##.embed-responsive-item:style(position: fixed; z-index: 9999;)
+oremanga.net#$#body { background: #171717 !important; }
+
+! 1 jan 2025
+www.anime-masters.com##[href="https://www.anime-masters.com"]
+www.anime-masters.com##[href="https://ok-doujinx.com"]
+||www.anime-masters.com/anime-master-background.webp$image
+
+! Dec 28, 2024
+fairyanime.net#$#.pager li > a { background-color: #171717 !important; }
+fairyanime.net#$#.navbar { background: #171717 !important; }
+fairyanime.net#$#.navbar { border: none !important; }
+fairyanime.net#$#.concise { background: #171717 !important; }
+fairyanime.net#$#.panel { background: #171717 !important; }
+fairyanime.net#$#.panel { border: none !important; }
+fairyanime.net#$#body { background: #171717 !important; }
+fairyanime.net###copyright
+fairyanime.net##img:style(opacity: 0.7 !important;)
+
+! Dec 29, 2024 https://rose-manga.com
+||rose-manga.com/wp-content/uploads/2022/08/cover-rose.webp$image
+ rose-manga.com#$#body { background: #171717 !important; }
+
+! Dec 24, 2024 https://javcub.org ---process only single site
+javcub.org##[href="https://moviehd88.com/"]
+
+! Dec 13, 2024 ----
+||www.anime-sugoi.com/upload/335357af810d85d0409c3f977744e18fo.jpg$image
+anime-sugoi.com#$#body { background: #171717 !important; }
+anime-sugoi.com##img:style(opacity: 0.5 !important;)
+
+||www.anime-sm.com/*/bg.jpg$image
+www.anime-sm.com#$#body { background: #171717 !important; }
+
+subserieshd.com##[src="/images/close.gif"]
+
+||anccplayer.cyou/source/Neon24h.mp4$media
+
+www.037hdmovie.com##.filmborder:style(border: none !important;)
+www.037hdmovie.com##.filmborder:style(margin-bottom: 0 !important;)
+
+animehayai.net##.ads-close-button
+
+123-hd.com##.fancy-content
+123-hd.com##.htmlwrap.clearfix:style(background-color: #181818 !important;)
+
+||animeyuzu.com/*/bg.webp$image
+
+||jwpltx.com^
+||t1.24playerhd.com^
+||t4.24playerhd.com^
+
+!  xn--l3cmwb9e3d4b.com
+cyberpor.com##.show.fade.modal
+cyberpor.com##.show.fade.modal-backdrop
+
+! LEGACY ---
+! js fingerprint popup
+||84gs08xe1.com^
+||jl63v3fp1.com^
+! https://jl63v3fp1.com/r/dir?zoneid=2020443&pb=da7be...176770&psp=0D_0FK
