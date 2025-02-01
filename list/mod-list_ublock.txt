@@ -1,4 +1,9 @@
 
+! Feb 1, 2025 https://www.anime-sugoi.com
+www.anime-sugoi.com##[href*="service.adsok.co/api/v1/advertisement/click/"]
+! wss://hello.idocdn.com:3015/
+||hello.idocdn.com
+
 ! Jan 18, 2025 https://www.anime-suba.com
 ||anime-suba.com/imges/BG.jpg$image
 anime-suba.com#$#body{ background: #161616 !important; }
