@@ -2,18 +2,22 @@
 ||usheebainaut.com^
 ||exodusjailhousetarantula.com^
 
-! Feb 21, 2025 https://91porn.com
+! Feb 21, 2025
 91porn.com##.ad_img
 ||1729130453.rsc.cdn77.org/0214.mp4$media
 
 ! Feb 18, 2025 https://www.xn--l3c0azab5a2gta.com
 @@||image.cdend.com^$image,domain=www.xn--l3c0azab5a2gta.com
 
-! Feb 1, 2025 https://www.anime-sugoi.com
+! Feb 1, 2025
 www.anime-sugoi.com##[href*="service.adsok.co/api/v1/advertisement/click/"]
 ! wss://hello.idocdn.com:3015/
 ||hello.idocdn.com
 
+! Mar 9, 2025
+||www.anime-masters.com/anime-master-background.webp$image
+! ~ itself banner
+www.anime-masters.com##[href="https://www.anime-masters.com"]
 www.anime-masters.com#$#.img-rounded { border-image-slice: 0 !important; }
 
 ! Jan 18, 2025 https://www.anime-suba.com
@@ -23,12 +27,12 @@ anime-suba.com#$#body{ background: #161616 !important; }
 ! Jan 18, 2025 https://fairyanime.net
 @@||image.cdend.com^$image,domain=fairyanime.net
 
-! Jan 18, 2025 https://www.go-manga.com
+! Jan 18, 2025
 ||www.go-manga.com/wp-content/uploads/2024/01/go-manga-wallpapaer.jpg$image
 www.go-manga.com##[href="https://www.go-manga.com/link_to.php?url=https://www.go-manga.com"]
 ||www.go-manga.com/wp-content/uploads/*/mangav2.gif
 
-! Jan 18, 2025 https://www.anime-suba.com
+! Jan 18, 2025
 ||anime-suba.com/imges/BG.jpg$image
 anime-suba.com#$#body{ background: #161616 !important; }
 
@@ -37,7 +41,6 @@ anime-suba.com#$#body{ background: #161616 !important; }
 
 ! Jan 18, 2025 https://www.go-manga.com
 ||www.go-manga.com/wp-content/uploads/2024/01/go-manga-wallpapaer.jpg$image
-! ~ ^ to prevent dup sub domain
 www.go-manga.com##[href="https://www.go-manga.com/link_to.php?url=https://www.go-manga.com"]
 ||www.go-manga.com/wp-content/uploads/*/mangav2.gif
 
@@ -61,14 +64,14 @@ fairyanime.net#$#body { background: #171717 !important; }
 fairyanime.net###copyright
 fairyanime.net##img:style(opacity: 0.7 !important;)
 
-! Dec 29, 2024 https://rose-manga.com
+! Dec 29, 2024
 ||rose-manga.com/wp-content/uploads/2022/08/cover-rose.webp$image
  rose-manga.com#$#body { background: #171717 !important; }
 
-! Dec 24, 2024 https://javcub.org ---process only single site
+! Dec 24, 2024
 javcub.org##[href="https://moviehd88.com/"]
 
-! Dec 13, 2024 ----
+! Dec 13, 2024
 ||www.anime-sugoi.com/upload/335357af810d85d0409c3f977744e18fo.jpg$image
 anime-sugoi.com#$#body { background: #171717 !important; }
 anime-sugoi.com##img:style(opacity: 0.5 !important;)
