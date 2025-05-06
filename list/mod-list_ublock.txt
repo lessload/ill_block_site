@@ -1,3 +1,11 @@
+
+! May 6, 2025 https://www.go-manga.com
+||www.go-manga.com/wp-content/uploads/2025/04/manga728x400v2.gif$image
+
+! can block gam clip
+||cdn.darkadv.com/*_1500.m3u8
+||cdn.darkadv.com/*_2500.m3u8
+
 ! POPUP www.anime-sugoi.com
 ||usheebainaut.com^
 ||exodusjailhousetarantula.com^
