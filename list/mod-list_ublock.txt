@@ -118,3 +118,6 @@ cyberpor.com##[href*="https://m.catcat.bet"]
 ||84gs08xe1.com^
 ||jl63v3fp1.com^
 ! https://jl63v3fp1.com/r/dir?zoneid=2020443&pb=da7be...176770&psp=0D_0FK
+
+! May 30, 2025
+speed-manga.com##[href*="https://lin.ee"]
