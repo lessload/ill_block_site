@@ -2,20 +2,9 @@
 ! May 6, 2025 https://www.go-manga.com
 ||www.go-manga.com/wp-content/uploads/2025/04/manga728x400v2.gif$image
 
-! can block gam clip
-||cdn.darkadv.com/*_1500.m3u8
-||cdn.darkadv.com/*_2500.m3u8
-
 ! POPUP www.anime-sugoi.com
 ||usheebainaut.com^
 ||exodusjailhousetarantula.com^
-
-! Feb 21, 2025
-91porn.com##.ad_img
-||1729130453.rsc.cdn77.org/0214.mp4$media
-
-! Feb 18, 2025 https://www.xn--l3c0azab5a2gta.com
-@@||image.cdend.com^$image,domain=www.xn--l3c0azab5a2gta.com
 
 ! Feb 1, 2025
 www.anime-sugoi.com##[href*="service.adsok.co/api/v1/advertisement/click/"]
@@ -43,9 +32,6 @@ www.go-manga.com##[href="https://www.go-manga.com/link_to.php?url=https://www.go
 ! Jan 18, 2025
 ||anime-suba.com/imges/BG.jpg$image
 anime-suba.com#$#body{ background: #161616 !important; }
-
-! Jan 18, 2025 https://24-jav.com
-24-jav.com##.bcm-ads
 
 ! Jan 18, 2025 https://www.go-manga.com
 ||www.go-manga.com/wp-content/uploads/2024/01/go-manga-wallpapaer.jpg$image
@@ -121,3 +107,13 @@ cyberpor.com##[href*="https://m.catcat.bet"]
 
 ! May 30, 2025
 speed-manga.com##[href*="https://lin.ee"]
+
+! - 2025-07-02
+||googles.video/*/juad88.mp4$media
+! ||googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/juad88.mp4$media
+||files.cameron-srva.com/*:webads/*.mp4$media
+! ||files.cameron-srva.com/bb571789eed14007b32ebf4ce34370c3:webads/heng_36.mp4$media
+||rakhuay.com/uploads/pigpg-*.mp4$media
+
+||cdn.speed-manga.com/*/speed-manga.gif$image
+
